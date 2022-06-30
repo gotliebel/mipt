@@ -1,0 +1,15 @@
+# ninja log v5
+20	61	1651057674756953326	CMakeFiles/contest3cpp.dir/i.cpp.o	e964657ee1bd3eb0
+36	61	1651057674756953326	CMakeFiles/contest3cpp.dir/j.cpp.o	290eb44aff66e37e
+3	49	1651057674744953493	CMakeFiles/contest3cpp.dir/f.cpp.o	fd1792fcf79a11b3
+1	30	1651058073726085066	build.ninja	d47e04a044fb0bf9
+8	46	1651057674736953605	CMakeFiles/contest3cpp.dir/g.cpp.o	f78d7051bb403ddc
+1	50	1651057674744953493	CMakeFiles/contest3cpp.dir/d.cpp.o	de08ca6d98feacf
+0	46	1651057674736953605	CMakeFiles/contest3cpp.dir/a.cpp.o	32b1388112de30af
+9	54	1651057674748953437	CMakeFiles/contest3cpp.dir/h.cpp.o	77e98f9948524d53
+1	46	1651057674732953661	CMakeFiles/contest3cpp.dir/b.cpp.o	ec19e38f64fcf547
+1	46	1651057674728953717	CMakeFiles/contest3cpp.dir/c.cpp.o	d075c7d90e04542a
+1262	1361	1651057730764237432	contest3cpp	51e08101d4310db
+2	49	1651057674744953493	CMakeFiles/contest3cpp.dir/e.cpp.o	dd57900489778636
+1	1262	1651057730664238599	CMakeFiles/contest3cpp.dir/hopa.cpp.o	55c7d331f37fa651
+13	362	1650198599519697044	CMakeFiles/contest3cpp.dir/test.cpp.o	120672ed9a69f91e
